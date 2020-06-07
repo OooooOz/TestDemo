@@ -5,6 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>TestMerge</module>
+  	<module>TestDemo-Merge</module>
   </modules>
 </project>
